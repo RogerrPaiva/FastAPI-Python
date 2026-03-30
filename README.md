@@ -33,6 +33,11 @@ Entre os objetivos da aplicação, destacam-se:
 - **HTTP / REST**
 
 ---
+| Integrante | Responsabilidade |
+|-----------|------------------|
+| Roger Paiva | Back-end e desenvolvimento da API |
+
+---
 
 ## Estrutura do Projeto
 
@@ -50,7 +55,3 @@ api/
 │── venv/
 │── requirements.txt
 │── README.md
-
-| Integrante | Responsabilidade |
-|-----------|------------------|
-| Roger Paiva | Back-end e desenvolvimento da API |
